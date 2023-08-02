@@ -67,10 +67,6 @@
 - 凸优化：给出一个函数，写出它的Dual function和KKT条件。
 - 知识表示：五道题，英文，主要和model与一阶逻辑有关。有一道题是给定自然语言句子用一阶逻辑表示，有一道题是判断一些statements的正误。总之不咋会，泪目了。
 
-
-
-
-
 ## 个人的一些建议
 
 下面是个人关于准备夏令营的一些建议，仅供参考。此外我的笔记见下面的表格。
@@ -106,13 +102,20 @@
 
 ### 我的整理和笔记
 
-下面是我复习中做的一些整理和笔记，仅供参考：
+下面是我复习中做的一些整理和笔记。请注意：这只是本人在学习过程中的一些整理，有许多地方还没有整理到，还可能会有一些纰漏，还望包涵\~
 
-| Description         | Link                                                         |
-| ------------------- | ------------------------------------------------------------ |
-| NJUAI往年面经和链接 | [往年面经整理（NJUAI向）](https://github.com/YuRuiii/2023-NJUAI-open-day-review/blob/main/往年面经整理（NJUAI向）.md) |
-|                     |                                                              |
-|                     |                                                              |
+| Description                                         | Link                                                         |
+| --------------------------------------------------- | ------------------------------------------------------------ |
+| 在互联网上收集的NJUAI往年面经和链接，按照年份分类   | [面经.md](https://github.com/YuRuiii/2023-NJUAI-open-day-review/blob/main/面经.md) |
+| 在互联网上收集的NJUAI往年面经和链接，按照科目分类   | [面经（分类）.md](https://github.com/YuRuiii/2023-NJUAI-open-day-review/blob/main/面经（分类）.md) |
+| 根据往年/今年面经，结合我的复习，猜测整理的高频问题 | [面试.md](https://github.com/YuRuiii/2023-NJUAI-open-day-review/blob/main/面试.md) |
+| 个人机器学习复习整理                                | [机器学习.md](https://github.com/YuRuiii/2023-NJUAI-open-day-review/blob/main/机器学习.md) |
+| 个人数据结构与算法复习整理                          | [数据结构与算法.md](https://github.com/YuRuiii/2023-NJUAI-open-day-review/blob/main/数据结构与算法.md) |
+| 个人概率论与数理统计复习整理                        | [概率论与数理统计.md](https://github.com/YuRuiii/2023-NJUAI-open-day-review/blob/main/概率论与数理统计.md) |
+| 个人人工智能复习整理                                | [人工智能.md](https://github.com/YuRuiii/2023-NJUAI-open-day-review/blob/main/人工智能.md) |
+| 个人深度学习复习整理                                | [深度学习.md](https://github.com/YuRuiii/2023-NJUAI-open-day-review/blob/main/深度学习.md) |
+| 个人线性代数复习整理                                | [线性代数.md](https://github.com/YuRuiii/2023-NJUAI-open-day-review/blob/main/线性代数.md) |
+| 整理了一些常见的英文问题，但是都没用到              | [英文.md](https://github.com/YuRuiii/2023-NJUAI-open-day-review/blob/main/英文.md) |
 
 ## 致谢
 
